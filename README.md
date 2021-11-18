@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madsonmendes87
 - 👀 I’m interested in learn and improve my software development skills
-- 🌱 I’m currently learning html, css and java
+- 🌱 I’m currently learning html, css and javascript
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me madsonmendes87@gmail.com
 

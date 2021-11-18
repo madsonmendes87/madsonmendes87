@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @madsonmendes87
-- 👀 I’m interested in learn and improve my software development skills
-- 🌱 I’m currently learning html, css and javascript
-- 💞️ I’m looking to collaborate on software development
-- 📫 How to reach me madsonmendes87@gmail.com
+🕸 Olá, sou Madson, estudante de ADS...
+<div align="center">
+  <a href="https://github.com/madsonmendes87">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madsonmendes87&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madsonmendes87&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Madson-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Madson-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Madson-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Madson-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Madson-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+</div><br>
+  
+  <div> 
+  <a href = "mailto:maddsonmendes87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/madson-mendes-bba177163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="api.whatsapp.com/send?phone=558699160860"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ </div>
 
-<!---
-madsonmendes87/madsonmendes87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

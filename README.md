@@ -18,7 +18,7 @@
   <a href="http://api.whatsapp.com/send?phone=558699160860"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  </div>
  <p align="center"> 
-  ## :detective: <br>
+  :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/madsonmendes87/count.svg" />
  </p>

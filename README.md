@@ -17,4 +17,10 @@
   <a href="https://www.linkedin.com/in/madson-mendes-bba177163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="http://api.whatsapp.com/send?phone=558699160860"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  </div>
+ <p align="center"> 
+  ## :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/madsonmendes87/count.svg" />
+ </p>
+</p>
 

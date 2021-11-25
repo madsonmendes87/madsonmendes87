@@ -5,11 +5,13 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madsonmendes87&layout=compact&langs_count=7&theme=buefy"/>
 </div>
 <div style="display: inline_block"><br>
+  <p align="center">
   <img align="center" alt="Madson-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Madson-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Madson-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Madson-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Madson-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  </p>
 </div><br>
   
   <div>

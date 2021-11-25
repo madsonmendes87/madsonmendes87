@@ -1,4 +1,4 @@
-<h5>Estudante de Análise e Desenvolvimento de Sistemas 👨‍💻</h5>
+<h5>Estudante de Análise e Desenvolvimento de Sistemas</h5><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </div align="center">
   <a href="https://github.com/madsonmendes87">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=madsonmendes87&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>

@@ -1,4 +1,4 @@
-<h5>Estudante de Análise e Desenvolvimento de Sistemas<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h5>
+<h5><p align="center">Estudante de Análise e Desenvolvimento de Sistemas<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h5></p>
 </div align="center">
   <p align="center">
   <a href="https://github.com/madsonmendes87">

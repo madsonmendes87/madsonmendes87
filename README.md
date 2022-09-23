@@ -1,4 +1,4 @@
-<h5>Desenvolvedor de Software na Industria Justa Fama<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h5>
+<h5>Desenvolvedor de Software<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h5>
 </div align="center">
   <p align="center">
   <a href="https://github.com/madsonmendes87">

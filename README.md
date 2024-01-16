@@ -10,9 +10,10 @@
 </div>
 <div style="display: inline_block"><br>
   <p align="center">
-  <img align="center" alt="Madson-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Madson-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Madson-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Madson-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Madson-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Madson-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Madson-Pascal" height="40" width="40" src="https://camo.githubusercontent.com/861c6c2f8b7cd97ac20416ec5c62d0f1724a69c635a2c7b3b98a38a05799c5db/68747470733a2f2f696d672e69636f6e73382e636f6d2f6f66666963656c2f34302f3030303030302f64656c7068692d6964652e706e67">
   </p>
 </div><br>
   

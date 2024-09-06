@@ -8,17 +8,15 @@
 
 <div align="center">
   <p align="center">
-  <a href="https://github.com/madsonmendes87">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=madsonmendes87&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madsonmendes87&layout=compact&langs_count=7&theme=react"/>
+      <a href="https://github.com/madsonmendes87">
+      <img height="140em" src="https://github-readme-stats.vercel.app/api?username=madsonmendes87&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+      <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madsonmendes87&layout=compact&langs_count=7&theme=react"/>
    </p>
 </div>
 <div style="display: inline_block"><br>
   <p align="center">
-  <img align="center" alt="Madson-HTML" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Madson-CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Madson-Js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" height="30" width="30" src="https://img.icons8.com/officel/40/000000/delphi-ide.png"> 
+      <img align="center" height="30" width="30" src="https://img.icons8.com/officel/40/000000/delphi-ide.png"> 
+      <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   </p>
 </div>
   

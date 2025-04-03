@@ -15,7 +15,8 @@
 </div>
 <div style="display: inline_block"><br>
   <p align="center">
-      <img align="center" height="30" width="30" src="https://img.icons8.com/officel/40/000000/delphi-ide.png"> 
+      <img align="center" height="30" width="30" src="https://img.icons8.com/officel/40/000000/delphi-ide.png">
+      <img align="center" height="30" width="30" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
       <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   </p>
 </div>

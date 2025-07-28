@@ -6,13 +6,18 @@
 
 <br/>
 
-<div align="center">
-  <p align="center">
-      <a href="https://github.com/madsonmendes87">
-      <img height="140em" src="https://github-readme-stats.vercel.app/api?username=madsonmendes87&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-      <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madsonmendes87&layout=compact&langs_count=7&theme=react"/>
-   </p>
+<div align='center'>
+
+  <div align="center">  
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=madsonmendes87&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madsonmendes87&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  
+  </div>
+
 </div>
+
 <div style="display: inline_block"><br>
   <p align="center">
       <img align="center" height="30" width="30" src="https://img.icons8.com/officel/40/000000/delphi-ide.png">

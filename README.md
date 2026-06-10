@@ -21,6 +21,11 @@
       <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   </p>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madsonmendes87&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madsonmendes87&layout=compact&theme=radical" width="36%" />
+</p>
   
  
 
